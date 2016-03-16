@@ -1,0 +1,33 @@
+{
+  "name": "vanillajs-slidr",
+  "version": "0.5.1",
+  "description": "A simple, lightweight javascript library for adding slide transitions to your page. No dependencies required. ",
+  "main": "slidr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skgroup/vanillajs-slidr.git"
+  },
+  "keywords": [
+    "vanillajs",
+    "slider"
+  ],
+  "contributors": [
+    {
+      "name": "Stanislav Kiryukhin <korsar-zn>",
+      "email": "korsar.zn@gmail.com"
+    },
+    {
+      "name": "Brian Chan <bchanx>",
+      "email": "bchanx@gmail.com"
+    }
+  ],
+  "author": "Brian Chan <bchanx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skgroup/vanillajs-slidr/issues"
+  },
+  "homepage": "https://github.com/skgroup/vanillajs-slidr#readme"
+}
