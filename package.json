@@ -1,6 +1,6 @@
 {
   "name": "vanillajs-slidr",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "A simple, lightweight javascript library for adding slide transitions to your page. No dependencies required. ",
   "main": "slidr.js",
   "scripts": {

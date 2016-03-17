@@ -306,12 +306,12 @@
 
     // Stop event propagation.
     stop: function(e) {
-      e = e || window.event;
-      e.cancelBubble = true;
-      e.returnValue = false;
-      if (e.stopPropagation) e.stopPropagation();
-      if (e.preventDefault) e.preventDefault();
-      return false;
+      //e = e || window.event;
+      //e.cancelBubble = true;
+      //e.returnValue = false;
+      //if (e.stopPropagation) e.stopPropagation();
+      //if (e.preventDefault) e.preventDefault();
+      //return false;
     },
 
     // Animationend events.
